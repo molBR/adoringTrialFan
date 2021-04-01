@@ -1,0 +1,27 @@
+{
+    "MESSAGE_ONLY_PREFIX": "hello",
+    "MESSAGE_HELP": "In this site you'll get all the help you need: https://www.notion.so/Adoring-Trial-Fan-b6c7f4a625464d6bbeb4e437f7f4d35e ",
+    "MESSAGE_LANGUAGE": {
+        "MESSAGE_LANGUAGE_CHANGE": "You have changed to english!",
+        "MESSAGE_LANGUAGE_NOSUPPORT": "We don't support this language"
+    },
+    "CREATE_VOTATION": {
+        "VOTATION_DAY_HOUR": {
+            "PREFIX": "Begining of trial vote, this trial will happen on day ",
+            "MIDDLE": "at ",
+            "SUFIX": "please vote!!\n\n"
+        },
+        "TRIAL_PLACES": {
+            "CRAGLORN": "⚽ - Craglorn (Hel Ra Citadel, Aetherian Archive e Sanctum Ophidia)\n",
+            "MAW_OF_LORKAJ": "🏀 - Maw of Lorkaj\n",
+            "HALLS_OF_FABRICATION": "🏈 - Halls Of Fabrication\n",
+            "ASYLUM_SANCTORIUM": "⚾ - Asylum Sanctorium\n",
+            "CLOUDREST": "🥎 - Cloudrest \n",
+            "SUNSPIRE": "🎾 - Sunspire \n",
+            "KYNES_AEGIS": "🏐 - Kyne's Aegis"
+        },
+        "VOTATION_ERROR": "I didn't understand this trial creation."
+    },
+
+    "MESSAGE_CHANGE_NAME": "All right! changed your name to: "
+}

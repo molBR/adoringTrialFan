@@ -1,0 +1,26 @@
+{
+    "MESSAGE_ONLY_PREFIX": "Olá! 😀, eu sou o adorador de trials, todas as trials que você me passar eu vou anotar tudo e gerar informações apartir delas! 📊 📑\n\nPara falar diretamente para mim, utilize o prefixo: **!atfeso** e digite o comando!! \nNao sabe que comando utilizar? Digite **!atfeso help**",
+    "MESSAGE_HELP": "Para informações sobre ajuda acesse: https://www.notion.so/Adoring-Trial-Fan-b6c7f4a625464d6bbeb4e437f7f4d35e",
+    "MESSAGE_LANGUAGE": {
+        "MESSAGE_LANGUAGE_CHANGE": "Você mudou para português!",
+        "MESSAGE_LANGUAGE_NOSUPPORT": "Não temos suporte a essa linguagem"
+    },
+    "CREATE_VOTATION": {
+        "VOTATION_DAY_HOUR": {
+            "PREFIX": "Início da votação da TRIAL que acontecerá no dia ",
+            "MIDDLE": "e no horário ",
+            "SUFIX": "por favor votem!!"
+        },
+    "TRIAL_PLACES": {
+        "CRAGLORN": "⚽ - Craglorn (Hel Ra Citadel, Aetherian Archive e Sanctum Ophidia)\n\n",
+        "MAW_OF_LORKAJ": "🏀 - Maw of Lorkaj\n\n",
+        "HALLS_OF_FABRICATION": "🏈- Halls Of Fabrication\n\n",
+        "ASYLUM_SANCTORIUM": "⚾ - Asylum Sanctorium\n\n",
+        "CLOUDREST": "🥎 - Cloudrest \n\n",
+        "SUNSPIRE": "🎾 - Sunspire \n\n",
+        "KYNES_AEGIS": "🏐 - Kyne's Aegis"
+        },
+        "VOTATION_ERROR": "Não entendi esta criação de tiral."
+    },
+    "MESSAGE_CHANGE_NAME": "Beleza! Troquei seu nome para: "
+}
